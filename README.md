@@ -6,13 +6,13 @@
 
 **A full-stack mobile app for booking intercity bus trips in Georgia — search routes, pick your exact seat, pay by card, and travel with a QR ticket that works offline.**
 
-Built end-to-end by [Davit Bakuradze](https://www.linkedin.com/in/bakuradzedavit) as a portfolio project.
+Built end-to-end by Davit Bakuradze as a portfolio project.
 Fully bilingual 🇬🇪 Georgian / 🇬🇧 English · Light & dark themes · iOS & Android (Expo / React Native)
 
 </div>
 
 > 🔒 **Source code** lives in a private repository — **read access is available on request**:
-> [davit.bakuradze98@gmail.com](mailto:davit.bakuradze98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bakuradzedavit)
+> [davit.bakuradze98@gmail.com](mailto:davit.bakuradze98@gmail.com)
 
 ---
 
