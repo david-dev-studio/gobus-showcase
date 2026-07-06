@@ -46,12 +46,17 @@ Fully bilingual 🇬🇪 Georgian / 🇬🇧 English · Light & dark themes · i
 <p align="center">
   <img src="./screenshots/10-dark-mode.jpg" width="32%" alt="Dark mode" />
   <img src="./screenshots/11-onboarding.jpg" width="32%" alt="Onboarding — made for Georgia" />
+  <img src="./screenshots/13-sign-in.jpg" width="32%" alt="Secure sign-in with Clerk" />
+</p>
+<p align="center">
   <img src="./screenshots/12-splash.jpg" width="32%" alt="Splash screen" />
 </p>
 
 ## 🎬 Demo video
 
-*Coming soon.*
+**[▶ Watch the 90-second demo on YouTube](https://youtu.be/rXbO33CIpgI)** — the full flow: search → seats → payment → QR ticket → AI trip planner.
+
+[![GoBus demo video](./screenshots/video-thumb.jpg)](https://youtu.be/rXbO33CIpgI)
 
 ## 🛠️ How it's built
 
